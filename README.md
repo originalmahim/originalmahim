@@ -10,27 +10,6 @@
 <br/>
 <br/>
 
-## :zap: X-Factors Of Programming Hero_
-
-<p align="center">
-<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/career.png"/>
-<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/support.png"/>
-<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/job.png"/>
-<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/utils.png"/>
-<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/project.png"/>
-<img height="237" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/live.png"/>
-</p>
-
-<br />
-
-<p align="center">
-<a href="https://web.programming-hero.com">
-<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/explore.png"/>
-</a>
-</p>
-
-<br/>
-<br/>
 
 ## :bulb: Worked On 
 
@@ -55,11 +34,4 @@
 
 <br />
 
-<p align="center">
-<a href="https://web.programming-hero.com/course-details">
-<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
-</a>
-</p>
-
-<br/>
 <br/>
