@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="[Your Website URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png" alt="Website"></a>
-  <a href="[Your Facebook URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png" alt="Facebook"></a>
-  <a href="[Your LinkedIn URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png" alt="LinkedIn"></a>
 </p>
 
 <br>
