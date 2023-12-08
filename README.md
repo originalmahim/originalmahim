@@ -40,10 +40,5 @@
 
 <br />
 
-- Currently exploring [Topic 1](#)
-- Mastering [Topic 2](#)
-- Planning to dive into [Topic 3](#)
-
-Feel free to explore my projects, read my blog posts, and join me on this exciting learning journey! 😊
 
 
