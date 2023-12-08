@@ -6,18 +6,17 @@
 
 <br>
 
-## :mailbox: Connect with Me
+## :mailbox: Contact Me
 
 <p align="center">
   <a href="[Your Website URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png" alt="Website"></a>
-  <a href="[Your Twitter URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/twitter.png" alt="Twitter"></a>
+  <a href="[Your Facebook URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png" alt="Facebook"></a>
   <a href="[Your LinkedIn URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png" alt="LinkedIn"></a>
-  <a href="[Your Dev.to URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/devto.png" alt="Dev.to"></a>
 </p>
 
 <br>
 
-## :bulb: Technologies and Tools
+## :bulb: Worked On
 
 <p align="center">
   <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png" alt="HTML"/>
@@ -40,19 +39,7 @@
   <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png" alt="JWT"/>
 </p>
 
-## :rocket: My Projects
-
-- [Project 1](#) - Short description goes here.
-- [Project 2](#) - Short description goes here.
-- [Project 3](#) - Short description goes here.
-
-## :writing_hand: Blog Posts
-
-- [Blog Post 1](#) - Title and brief description.
-- [Blog Post 2](#) - Title and brief description.
-- [Blog Post 3](#) - Title and brief description.
-
-## :books: Learning Journey
+<br />
 
 - Currently exploring [Topic 1](#)
 - Mastering [Topic 2](#)
