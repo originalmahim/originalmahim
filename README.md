@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools I Know</h3>
+<h3 align="left">🛠 Language and tools that I Know</h3>
 
 ###
 
@@ -55,7 +55,6 @@
   <img height="80" src="https://i.ibb.co/f4pzGjH/mongodb.png" alt="MongoDB"/>
   <img height="60" src="https://i.ibb.co/31qMkVQ/vscode.png" alt="vscode"/>
   </P>
-  <img height="80" src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/daisyui-logo/favicon-192.png" alt="Daisyui"/>
   
 </div>
 
