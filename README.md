@@ -1,15 +1,13 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="https://i.ibb.co/Pg5zN80/20231209-155417-0000.png" />
 </a>
-<h1 align="center"><b>Hi, I'm Tareq Aziz Mahim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <br>
 
 ## :mailbox: Contact Me
 
 <p align="center">
-  <a href="[Your Website URL]"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png" alt="LinkedIn"></a>
+  <a href="[Your Website URL]"><img height="55" src="https://panels.twitch.tv/panel-414719593-image-b3f82be2-78f6-44d8-93ae-602924b7f0c9" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/tYtsHyd/5170c8fcc7d111940db2ce53f77e4f5e-removebg-preview.png" alt="LinkedIn"></a>
 </p>
 
 <br>
@@ -17,17 +15,15 @@
 ###
 
 
-- 🔭 I’m working as **Mentor (Apollo L2) & Sr. Web Instructor at Programming Hero.** 
+- 🔭 I’m working as **Junior MERN stack Developer** 
 
-- 🌱 I’m currently learning **Next.js, Prisma & PostgreSQL**
+- 🌱 I’m currently learning **Next.js**
 
-- 📝 I regularly write articles on [https://dev.to/fahimahammed](https://dev.to/fahimahammed)
+- 📫 How to reach me **tareqazizmahim@gmail.com**
 
-- 📫 How to reach me **fahimfiroz.ph@gmail.com**
+- ⚡ Fun fact **I talk so much.**
 
-- ⚡ Fun fact **I think I am funny.**
-
-## :chart_with_upwards_trend: Current Stats
+## : Current Stats 
 
 <br />
 <p align="center">
