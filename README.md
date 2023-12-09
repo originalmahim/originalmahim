@@ -62,7 +62,7 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 <p align="center">
   <a href="https://tareqazizmahim.netlify.app/"><img height="55" src="https://panels.twitch.tv/panel-414719593-image-b3f82be2-78f6-44d8-93ae-602924b7f0c9" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/s3ZmyyG/IMG-20231209-185043.jpg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/QPGqKNC/1702126496306.png" alt="LinkedIn"></a>
 </p>
 
 
