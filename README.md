@@ -25,8 +25,8 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 <br />
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
-  <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
 </p>
 
 <br>
