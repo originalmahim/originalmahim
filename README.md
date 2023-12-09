@@ -50,6 +50,7 @@
   <img height="80" src="https://i.ibb.co/nrbPzJp/express.png" alt="Express"/>
   <img height="80" src="https://i.ibb.co/f4pzGjH/mongodb.png" alt="MongoDB"/>
   <img height="80" src="https://i.ibb.co/31qMkVQ/vscode.png" alt="JWT"/>
+  <img height="80" src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/daisyui-logo/favicon-192.png" alt="Daisyui"/>
   
 </div>
 
