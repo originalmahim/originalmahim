@@ -12,18 +12,6 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 <br>
 
-## :mailbox: Contact Me
-
-<p align="center">
-  <a href="[Your Website URL]"><img height="55" src="https://panels.twitch.tv/panel-414719593-image-b3f82be2-78f6-44d8-93ae-602924b7f0c9" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/tYtsHyd/5170c8fcc7d111940db2ce53f77e4f5e-removebg-preview.png" alt="LinkedIn"></a>
-</p>
-
-<br>
-
-###
-
-
 - 🔭 I’m Looking for a **Junior MERN stack Developer role** 
 
 - 🌱 I’m currently learning **Next.js**
@@ -33,13 +21,15 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 - ⚡ Fun fact **I talk so much.**
 
-## : Current Stats 
+## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
   <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
 </p>
+
+<br>
 
 ###
 
@@ -66,6 +56,14 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
   </P>
   
 </div>
+<br>
+
+## :mailbox: Reach Out Me
+
+<p align="center">
+  <a href="[Your Website URL]"><img height="55" src="https://panels.twitch.tv/panel-414719593-image-b3f82be2-78f6-44d8-93ae-602924b7f0c9" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/tYtsHyd/5170c8fcc7d111940db2ce53f77e4f5e-removebg-preview.png" alt="LinkedIn"></a>
+</p>
 
 
 
