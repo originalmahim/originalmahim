@@ -1,3 +1,6 @@
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="https://i.ibb.co/NFwG2bt/Purple-Blue-Modern-Gaming-Youtube-Thumbnail-20231209-142911-0000.png" />
+</a>
 <h1 align="center"><b>Hi, I'm Tareq Aziz Mahim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
