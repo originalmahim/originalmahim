@@ -39,18 +39,22 @@
 ###
 
 <div align="center">
+  <p align="center">
   <img height="80" src="https://i.ibb.co/VSmHRkv/html.png" alt="HTML"/>
   <img height="80" src="https://i.ibb.co/g7xQSGY/css3.png" alt="CSS"/>
   <img height="80" src="https://i.ibb.co/p4ynHSD/bootstrap.png" alt="Bootstrap"/>
   <img height="80" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" alt="Tailwind"/>
   <img height="80" src="https://i.ibb.co/XLLvh3f/js.png" alt="JavaScript"/>
   <img height="80" src="https://i.ibb.co/jD7j5Gv/react.png" alt="React"/>
+  </p>
+  <p align="center">
   <img height="60" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" alt="React Router Dom"/>
   <img height="80" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" alt="Firebase"/>
   <img height="80" src="https://i.ibb.co/GF9MYQn/node.png" alt="Node.js"/>
   <img height="80" src="https://i.ibb.co/nrbPzJp/express.png" alt="Express"/>
   <img height="80" src="https://i.ibb.co/f4pzGjH/mongodb.png" alt="MongoDB"/>
-  <img height="80" src="https://i.ibb.co/31qMkVQ/vscode.png" alt="JWT"/>
+  <img height="60" src="https://i.ibb.co/31qMkVQ/vscode.png" alt="vscode"/>
+  </P>
   <img height="80" src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/daisyui-logo/favicon-192.png" alt="Daisyui"/>
   
 </div>
