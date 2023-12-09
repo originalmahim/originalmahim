@@ -38,18 +38,18 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://png.pngtree.com/png-vector/20220626/ourmid/pngtree-html-5-icon-design-vector-png-image_5471158.png" alt="HTML"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png" alt="CSS"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png" alt="Bootstrap"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png" alt="Tailwind"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png" alt="JavaScript"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png" alt="React"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png" alt="React Router Dom"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png" alt="Firebase"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png" alt="Node.js"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png" alt="Express"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png" alt="MongoDB"/>
-  <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png" alt="JWT"/>
+  <img height="80" src="https://i.ibb.co/VSmHRkv/html.png" alt="HTML"/>
+  <img height="80" src="https://i.ibb.co/g7xQSGY/css3.png" alt="CSS"/>
+  <img height="80" src="https://i.ibb.co/p4ynHSD/bootstrap.png" alt="Bootstrap"/>
+  <img height="80" src="https://miro.medium.com/v2/resize:fit:644/1*d7Xs5RnaqcQtKzbNrAOAYA.png" alt="Tailwind"/>
+  <img height="80" src="https://i.ibb.co/XLLvh3f/js.png" alt="JavaScript"/>
+  <img height="80" src="https://i.ibb.co/jD7j5Gv/react.png" alt="React"/>
+  <img height="60" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" alt="React Router Dom"/>
+  <img height="80" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" alt="Firebase"/>
+  <img height="80" src="https://i.ibb.co/GF9MYQn/node.png" alt="Node.js"/>
+  <img height="80" src="https://i.ibb.co/nrbPzJp/express.png" alt="Express"/>
+  <img height="80" src="https://i.ibb.co/f4pzGjH/mongodb.png" alt="MongoDB"/>
+  <img height="80" src="https://i.ibb.co/31qMkVQ/vscode.png" alt="JWT"/>
   
 </div>
 
