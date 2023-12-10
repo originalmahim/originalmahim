@@ -12,6 +12,14 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 <br>
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
+</p>
+
+<br>
 - 🔭 I’m Looking for a **Junior React Font-end Developer role** 
 
 - 🌱 I’m currently learning **Next.js**
@@ -21,12 +29,8 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 - 📫 How to reach me **tareqazizmahim@gmail.com**
 
 - ⚡ Fun fact **I talk so much.**
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
+<br>
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
 </p>
 
