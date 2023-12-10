@@ -54,7 +54,6 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
   </P>
   
 </div>
-<br>
 ## :eyes: overview
 
 ## 🔭 I’m Looking for a **Junior React Font-end Developer role** 
