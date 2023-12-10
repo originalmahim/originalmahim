@@ -6,7 +6,7 @@
 ## About Me
 
 <p align="center">
-  I'm  a Junior MERN Stack Developer on a mission to make tech awesome! Armed with my trusty keyboard and a cup of coffee, I bring cool ideas to life by turning them into amazing websites.
+  I'm  a Junior React Font-end Developer on a mission to make tech awesome! Armed with my trusty keyboard and a cup of coffee, I bring cool ideas to life by turning them into amazing websites.
 In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack development, I find joy in building all kinds of cool stuff on the internet. Whether it's making things look fantastic on the front or ensuring smooth functionality in the back, count me in!
 </p>
 
