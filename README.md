@@ -1,5 +1,5 @@
 <a href="">
-<img src="https://i.ibb.co/Pz3YPgM/replicate-prediction-iii2erzbuxggsloxjau3d36p6m.png" />
+<img src="https://raw.githubusercontent.com/originalmahim/originalmahim/main/cover.png" />
 </a>
 <br>
 
