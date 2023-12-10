@@ -12,9 +12,10 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 <br>
 
-- 🔭 I’m Looking for a **Junior MERN stack Developer role** 
+- 🔭 I’m Looking for a **Junior React Font-end Developer role** 
 
 - 🌱 I’m currently learning **Next.js**
+
 - 👯 I’m Trying - To collaborate on open source projects. 
 
 - 📫 How to reach me **tareqazizmahim@gmail.com**
