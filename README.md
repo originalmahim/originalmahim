@@ -53,18 +53,18 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
   <img height="50" src="https://i.ibb.co/31qMkVQ/vscode.png" alt="vscode"/>
   </P>
   
-</div>
-## :eyes: overview
+</div><br>
+<h2 align="left">Current Overview</h2>
 
-## 🔭 I’m Looking for a **Junior React Font-end Developer role** 
+### 🔭 I’m Looking for a **Junior React Font-end Developer role** 
 
-## 🌱 I’m currently learning **Next.js**
+### 🌱 I’m currently learning **Next.js**
 
-## 👯 I’m Trying - To collaborate on open source projects. 
+### 👯 I’m Trying - To collaborate on open source projects. 
 
-## 📫 How to reach me **tareqazizmahim@gmail.com**
+### 📫 How to reach me **tareqazizmahim@gmail.com**
 
-## ⚡ Fun fact **I talk so much.**
+### ⚡ Fun fact **I talk so much.**
 <br>
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
