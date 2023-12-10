@@ -19,7 +19,6 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
   <img width="100%" height="" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
 </p>
 
-<br>
 ## :mailbox: Reach Out Me
 
 <p align="center">
