@@ -20,15 +20,12 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 </p>
 
 <br>
-- 🔭 I’m Looking for a **Junior React Font-end Developer role** 
+## :mailbox: Reach Out Me
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m Trying - To collaborate on open source projects. 
-
-- 📫 How to reach me **tareqazizmahim@gmail.com**
-
-- ⚡ Fun fact **I talk so much.**
+<p align="center">
+  <a href="https://tareqazizmahim.netlify.app/"><img height="55" src="https://panels.twitch.tv/panel-451092658-image-5aabc315-d985-4bc6-9f1c-d0c8af4894d6" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/QPGqKNC/1702126496306.png" alt="LinkedIn"></a>
+</p>
 <br>
 
 <br>
@@ -60,12 +57,16 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 </div>
 <br>
 
-## :mailbox: Reach Out Me
 
-<p align="center">
-  <a href="https://tareqazizmahim.netlify.app/"><img height="55" src="https://panels.twitch.tv/panel-451092658-image-5aabc315-d985-4bc6-9f1c-d0c8af4894d6" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tareqazizmahim"><img height="55" src="https://i.ibb.co/QPGqKNC/1702126496306.png" alt="LinkedIn"></a>
-</p>
+- 🔭 I’m Looking for a **Junior React Font-end Developer role** 
+
+- 🌱 I’m currently learning **Next.js**
+
+- 👯 I’m Trying - To collaborate on open source projects. 
+
+- 📫 How to reach me **tareqazizmahim@gmail.com**
+
+- ⚡ Fun fact **I talk so much.**
 <br>
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
