@@ -16,7 +16,7 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 <br />
 <p align="center">
-  <img width="100%" height="" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=0&order=3"  alt="streak graph" />
+  <img width="100%" height="" src="https://streak-stats.demolab.com?user=originalmahim&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=a305f7"  alt="streak graph" />
 </p>
 
 ## :mailbox: Reach Out Me
