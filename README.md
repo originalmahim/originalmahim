@@ -66,9 +66,7 @@ In the vast world of MERN (MongoDB, Express.js, React, Node.js) stack developmen
 
 ### ⚡ Fun fact **I talk so much.**
 <br>
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalmahim&theme=tokyonight"  alt="streak graph" />
-</p>
+
 
 
 
